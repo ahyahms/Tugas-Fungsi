@@ -1,2 +1,2 @@
-# Tugas-Fungsii
-ini adalah tugas fungsi
+# Tugas-Fungsi
+Ini Adalah Tugas Fungsi
